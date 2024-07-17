@@ -22,4 +22,14 @@
 
 ## Instalação e Execução
 1. Clone o Repositório do Github:
-2. 
+    ```bash
+    git clone https://github.com/Giovanny-batista/Pokemon.git
+
+3. Instale as Dependências:
+   ```bash
+    flutter pub get
+
+4. Execute o Aplicativo:
+ ```bash
+   flutter run
+
