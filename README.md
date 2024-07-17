@@ -1,16 +1,25 @@
-# pokemon
+# Atividade para Turma de Programação para Dispositivos Móveis
 
-A new Flutter project.
+## Objetivo
+ Desenvolver um aplicativo Flutter utilizando a biblioteca provider para gerenciar o estado. O aplicativo deverá consumir dados de uma API externa (Criptomoedas ou Pokémon), permitir favoritar itens e exibir uma lista de itens favoritados que podem ser removidos.
 
-## Getting Started
+## Funcionalidades
+- Lista de Itens:
+  -  Exibir uma lista de itens (criptomoedas ou Pokémon) com um ícone de estrela ao lado de cada item.
+  -  Permitir favoritar/desfavoritar itens ao clicar no ícone de estrela.
 
-This project is a starting point for a Flutter application.
+- Lista de Favoritos:
+  -  Exibir uma página separada com a lista de itens favoritados.
+  -  Permitir remover itens dos favoritos.
+  -   tualizar o estado da lista de itens ao remover dos favoritos.
 
-A few resources to get you started if this is your first Flutter project:
+- Gerenciamento de Estado:
+  -  Utilizar a biblioteca provider para gerenciar o estado da aplicação.
+ 
+## Tecnologias Utilizadas:
+- Framework: Flutter
+- Linguagem de Programação: Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalação e Execução
+1. Clone o Repositório do Github:
+2. 
